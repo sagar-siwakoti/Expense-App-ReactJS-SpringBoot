@@ -13,7 +13,7 @@
     "react-datepicker": "^3.0.0",
     "react-dom": "^16.13.1",
     "react-moment": "^0.9.7",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "3.4.1",
     "reactstrap": "^6.5.0"
   },
